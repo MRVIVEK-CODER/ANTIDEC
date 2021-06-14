@@ -19,6 +19,13 @@ cd ANTIDEC
 ```
 Run : python2 Antidec.py
 ```
+### SCREENSHOT ###
+
+</p>
+<p align="center">
+<img src="https://github.com/MRVIVEK-CODER/ANTIDEC/blob/main/Screenshot_20210614-104307__01__01.jpg" width="640" title="Menu" alt="Menu">
+</p>
+ 
 
 <b>Username : VIVEK-XD</b> <br/>
 <b>Password : VIVEK-XD</b>
